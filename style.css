@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {text-align: center;}
+
+img{margin: auto; display: block;}
+
+nav > a{margin-left: 50%; margin-right: 50%; text-align: center; padding: 10px; background: grey; margin: auto;}
+nav{text-align: center}
+
+figcaption{text-align: center; font-size: 8;}
+
+#featured-property > p{text-align: center; width: 800px; margin: auto; margin-top: 10px;}
+
+#details > div{float: left; text-align: center; margin: auto; width: 25%; background: purple; margin-top: 10px;}
